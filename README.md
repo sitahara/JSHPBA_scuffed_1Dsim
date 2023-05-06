@@ -17,7 +17,7 @@
 
 ## 実行方法
 
-`params.mat`を読み込んでから`solarboat_1d_sim.slx`を開く
+`JSHPBA_scuffed_1Dsim.prj`を開く
 
 保存時は、Matlab R2022a形式で保存するようにお願いします．
 
