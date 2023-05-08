@@ -27,6 +27,8 @@
 
   (see: http://seisan.server-shared.com/20/204-13.pdf pp.16)
 
+- 水中翼の鉛直方向の運動に対する抗力
+
 ---
 
 ### Appendix: `params.mat`に含まれる定数一覧
