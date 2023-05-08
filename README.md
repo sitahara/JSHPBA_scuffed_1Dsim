@@ -21,6 +21,12 @@
 
 保存時は、Matlab R2022a形式で保存するようにお願いします．
 
+# TODO
+
+- 水中翼の水深による揚力係数の変化を実装する
+
+  (see: http://seisan.server-shared.com/20/204-13.pdf pp.16)
+
 ---
 
 ### Appendix: `params.mat`に含まれる定数一覧
